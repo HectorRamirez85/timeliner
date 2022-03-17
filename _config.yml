@@ -16,7 +16,7 @@ show_today: true
 # Each period has a list of events formatted as `- date: title`. If you don't want to have period dividers, leave out the name field.
 periods:
   - events:
-    - October 1990: "👶 Neil is born in Michigan."
+    - October 1990: "👶 testing."
     - December 1990: "✈️ Neil moves to California."
     - August 1994: "👶 Neil's sister, Nandini, is born."
     - February 1995: "💩 Neil splatters poop on his walls while swinging a garbage bag with a dirty diaper. This is his first physics lesson."
